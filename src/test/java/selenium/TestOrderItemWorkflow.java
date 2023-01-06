@@ -12,7 +12,7 @@ import selenium.utils.AddressInformation;
 import selenium.utils.Credentials;
 import selenium.utils.Products;
 
-public class OrderItemWorkflowTestClass extends BaseTest {
+public class TestOrderItemWorkflow extends BaseTest {
 
     @Test
     public void orderItem_completeWorkflow() {

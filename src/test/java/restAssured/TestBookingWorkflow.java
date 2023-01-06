@@ -16,7 +16,7 @@ import java.util.List;
 
 import static io.restassured.RestAssured.given;
 
-public class BookingWorkflowTestClass {
+public class TestBookingWorkflow {
     //mvn test -Dtest=BookingWorkflowTestClass to run all tests from this class
 
     private RequestSpecification requestSpec;
